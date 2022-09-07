@@ -1,7 +1,7 @@
 # Usage lem-in
 
 > It takes 1 argument & it can be filename or flag.
-<img src="lem-in.png" alt="LEM-INTRO" width = "900" title="keep it simple">
+<center><img src="lem-in.png" alt="LEM-INTRO" width = "700" title="keep it simple"></center>
 # How Program works simple Diagram
 <img src="diagram.png" alt="LEM-IN" width = "150" title="keep it simple">
 
