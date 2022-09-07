@@ -19,6 +19,7 @@ cd main
 go run main.go (filename | --file=filename)
 ```
 ### Examples:
+```bash
 Run program:
 $ cd main
 $ go run main.go example.txt
