@@ -3,7 +3,7 @@
 > It takes 1 argument & it can be filename or flag.
 <img src="lem-in.png" alt="LEM-INTRO" width = "500" title="keep it simple">
 # How Program works simple Diagram
-<img src="diagram.png" alt="LEM-IN" width = "100" title="keep it simple">
+<img src="diagram.png" alt="LEM-IN" width = "150" title="keep it simple">
 
 ----------------------- >
 
